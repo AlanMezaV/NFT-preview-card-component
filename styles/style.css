@@ -1,0 +1,112 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-size: 16px;
+    font-family: 'Outfit', sans-serif;
+    margin: 0px auto;
+    max-width: 1440px;
+}
+
+.section01 {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.art-principal {
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+    width: 240px;
+}
+
+.art-div01 {
+    display: flex;
+    justify-content: center;
+}
+
+.art-div02 {
+    margin-left: 20px;
+    flex-basis: 7%;
+    margin-top: 15px;
+}
+
+.art-div03 {
+    margin-left: 20px;
+    flex-basis: 13%;
+}
+
+.art-div04 {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 20px;
+}
+
+.div04-letras {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.div04-letras span {
+    margin-left: 17px;
+}
+
+.art-div05 {
+    margin-left: 20px;
+    margin-right: 20px;   
+}
+
+.art-div05 span {
+    margin-left: 5px;   
+}
+
+.ethereum {
+    position: relative;
+    top: -17px;
+}
+
+.reloj {
+    position: relative;
+    top: -17px;
+    left: 115px;
+}
+
+.perfil {
+    border: 1px solid white;
+    border-radius: 20px;
+    position: relative;
+    top: 5px;
+    height: 20px;
+    width: 20px;
+}
+
+.letra-azul {
+    color: hsl(215, 51%, 70%);
+}
+
+.letra-mediana {
+    font-size: 0.8em;
+}
+
+.letra-pequenia {
+    font-size: 0.7em;
+}
+
+.letra-blanca {
+    color: white;
+}
+
+.letra-cyan {
+    color: hsl(178, 100%, 50%);
+}
+
+.foto-equilibrium {
+    border-radius: 5px;
+    height: 204px;
+    width: 204px;
+}
